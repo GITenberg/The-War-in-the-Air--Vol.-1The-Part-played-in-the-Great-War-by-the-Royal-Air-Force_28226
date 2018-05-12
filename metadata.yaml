@@ -1,0 +1,31 @@
+_repo: The-War-in-the-Air--Vol.-1The-Part-played-in-the-Great-War-by-the-Royal-Air-Force_28226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raleigh, Walter Alexander, Sir
+    alias: Raleigh, Sir Walter Alexander
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '185'
+    url: http://www.gutenberg.org/2009/agents/185
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
+description: ''
+gutenberg_issued: '2009-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Aerial operations, British'
+- !lcsh 'Great Britain. Royal Air Force'
+- !lcc 'D501'
+title: 'The War in the Air; Vol. 1
+
+  The Part played in the Great War by the Royal Air Force'
+url: http://www.gutenberg.org/ebooks/28226
