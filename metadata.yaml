@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/185
     wikipedia: http://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28226#The-War-in-the-Air--Vol.-1The-Part-played-in-the-Great-War-by-the-Royal-Air-Force
 gutenberg_issued: '2009-03-01'
 gutenberg_type: Text
 identifiers:
